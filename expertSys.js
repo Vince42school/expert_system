@@ -51,6 +51,7 @@ function checkBracket (arr) {
 }
 
 function createLogicNode (e) {
+	return false;
 }
 
 function createRulesNode(e) {
